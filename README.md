@@ -953,7 +953,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 If you use this project in research, please cite:
 
 ```bibtex
-@software{semantic_paper_search_2024,
+@software{semantic_paper_search_2025,
   title={Research Paper Semantic Search Engine},
   author={Manoj Chandrashekar Rao},
   year={2025},
