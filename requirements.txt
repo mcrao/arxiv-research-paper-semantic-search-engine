@@ -1,0 +1,10 @@
+streamlit
+sentence-transformers
+chromadb
+datasets
+ddgs>=3.9.0
+numpy
+scikit-learn
+rank-bm25
+torch==2.2.2
+tqdm==4.66.4
